@@ -6,7 +6,7 @@ Welcome 🤗 xylon GitHub account.
 git clone https://github.com/Xylon-404/AX_SHERE.git
 
 
-cd Xylon-404
+cd AX_SHERE
 
 
 python AX_SHERE.py
