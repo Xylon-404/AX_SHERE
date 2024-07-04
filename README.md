@@ -24,20 +24,6 @@ python AX_SHERE.py
 
 
 
-
-#### USERNAME
-```python
-FACEBOOK
-```
-#### PASSWORD 
-```python
-TOOL
-```
-
-
-
-
-
 #### SCREENSHOT
 ![logo](https://github.com/Xylon-404/PIC/blob/main/Screenshot_20240629-112404.png)
 
